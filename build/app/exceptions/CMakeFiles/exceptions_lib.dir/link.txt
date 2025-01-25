@@ -1,2 +1,0 @@
-/usr/bin/ar qc libexceptions_lib.a CMakeFiles/exceptions_lib.dir/buisness_exception.cpp.o
-/usr/bin/ranlib libexceptions_lib.a

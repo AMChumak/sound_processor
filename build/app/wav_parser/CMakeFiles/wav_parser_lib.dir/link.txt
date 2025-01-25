@@ -1,2 +1,0 @@
-/usr/bin/ar qc libwav_parser_lib.a CMakeFiles/wav_parser_lib.dir/wav_advanced_parser.cpp.o CMakeFiles/wav_parser_lib.dir/wav_files_condition_keeper.cpp.o
-/usr/bin/ranlib libwav_parser_lib.a

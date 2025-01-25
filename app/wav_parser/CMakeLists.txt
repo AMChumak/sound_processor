@@ -1,0 +1,2 @@
+add_library(wav_parser_lib wav_advanced_parser.cpp wav_advanced_parser.h wav_parser_I.h wav_files_condition_keeper.h wav_files_condition_keeper.cpp )
+target_link_libraries(wav_parser_lib PUBLIC exceptions_lib)

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libconvertor_lib.a CMakeFiles/convertor_lib.dir/inverse_convertor_creator.cpp.o CMakeFiles/convertor_lib.dir/inverse_convertor.cpp.o CMakeFiles/convertor_lib.dir/mix_convertor_creator.cpp.o CMakeFiles/convertor_lib.dir/mix_convertor.cpp.o CMakeFiles/convertor_lib.dir/mute_convertor_creator.cpp.o CMakeFiles/convertor_lib.dir/mute_convertor.cpp.o
+/usr/bin/ranlib libconvertor_lib.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libinjector_lib.a CMakeFiles/injector_lib.dir/injector_convertor.cpp.o
+/usr/bin/ranlib libinjector_lib.a

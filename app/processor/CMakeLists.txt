@@ -1,0 +1,2 @@
+add_library(processor_lib processor.cpp processor.h)
+target_link_libraries(processor_lib PUBLIC injector_lib exceptions_lib wav_parser_lib config_parser_lib)

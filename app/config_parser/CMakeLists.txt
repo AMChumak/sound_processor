@@ -1,0 +1,2 @@
+add_library(config_parser_lib simple_config_parser.cpp simple_config_parser.h config_parser_i.h)
+target_link_libraries(config_parser_lib PUBLIC exceptions_lib)

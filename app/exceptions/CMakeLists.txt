@@ -1,0 +1,1 @@
+add_library(exceptions_lib buisness_exception.h buisness_exception.cpp)

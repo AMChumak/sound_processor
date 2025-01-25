@@ -1,0 +1,2 @@
+add_library(injector_lib injector_convertor.cpp injector_convertor.h)
+target_link_libraries(injector_lib PUBLIC convertor_lib)

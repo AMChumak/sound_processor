@@ -1,0 +1,68 @@
+[
+{
+  "directory": "/home/anton/Documents/OOP/sound_processor/build",
+  "command": "/usr/bin/g++  -I/home/anton/Documents/OOP/sound_processor/app/wav_parser -I/home/anton/Documents/OOP/sound_processor/app/exceptions -I/home/anton/Documents/OOP/sound_processor/app/config_parser -isystem /home/anton/Documents/OOP/sound_processor/build/_deps/googletest-src/googletest/include -isystem /home/anton/Documents/OOP/sound_processor/build/_deps/googletest-src/googletest -g -o CMakeFiles/tests_sound_processor.dir/tests/wav_parser_test.cpp.o -c /home/anton/Documents/OOP/sound_processor/tests/wav_parser_test.cpp",
+  "file": "/home/anton/Documents/OOP/sound_processor/tests/wav_parser_test.cpp",
+  "output": "CMakeFiles/tests_sound_processor.dir/tests/wav_parser_test.cpp.o"
+},
+{
+  "directory": "/home/anton/Documents/OOP/sound_processor/build",
+  "command": "/usr/bin/g++  -I/home/anton/Documents/OOP/sound_processor/app/wav_parser -I/home/anton/Documents/OOP/sound_processor/app/exceptions -I/home/anton/Documents/OOP/sound_processor/app/config_parser -isystem /home/anton/Documents/OOP/sound_processor/build/_deps/googletest-src/googletest/include -isystem /home/anton/Documents/OOP/sound_processor/build/_deps/googletest-src/googletest -g -o CMakeFiles/tests_sound_processor.dir/tests/condition_keeper_test.cpp.o -c /home/anton/Documents/OOP/sound_processor/tests/condition_keeper_test.cpp",
+  "file": "/home/anton/Documents/OOP/sound_processor/tests/condition_keeper_test.cpp",
+  "output": "CMakeFiles/tests_sound_processor.dir/tests/condition_keeper_test.cpp.o"
+},
+{
+  "directory": "/home/anton/Documents/OOP/sound_processor/build",
+  "command": "/usr/bin/g++  -I/home/anton/Documents/OOP/sound_processor/app/wav_parser -I/home/anton/Documents/OOP/sound_processor/app/exceptions -I/home/anton/Documents/OOP/sound_processor/app/config_parser -isystem /home/anton/Documents/OOP/sound_processor/build/_deps/googletest-src/googletest/include -isystem /home/anton/Documents/OOP/sound_processor/build/_deps/googletest-src/googletest -g -o CMakeFiles/tests_sound_processor.dir/tests/config_parser_test.cpp.o -c /home/anton/Documents/OOP/sound_processor/tests/config_parser_test.cpp",
+  "file": "/home/anton/Documents/OOP/sound_processor/tests/config_parser_test.cpp",
+  "output": "CMakeFiles/tests_sound_processor.dir/tests/config_parser_test.cpp.o"
+},
+{
+  "directory": "/home/anton/Documents/OOP/sound_processor/build/app/wav_parser",
+  "command": "/usr/bin/g++   -g -fno-elide-constructors -o CMakeFiles/wav_parser_lib.dir/wav_advanced_parser.cpp.o -c /home/anton/Documents/OOP/sound_processor/app/wav_parser/wav_advanced_parser.cpp",
+  "file": "/home/anton/Documents/OOP/sound_processor/app/wav_parser/wav_advanced_parser.cpp",
+  "output": "app/wav_parser/CMakeFiles/wav_parser_lib.dir/wav_advanced_parser.cpp.o"
+},
+{
+  "directory": "/home/anton/Documents/OOP/sound_processor/build/app/wav_parser",
+  "command": "/usr/bin/g++   -g -fno-elide-constructors -o CMakeFiles/wav_parser_lib.dir/wav_files_condition_keeper.cpp.o -c /home/anton/Documents/OOP/sound_processor/app/wav_parser/wav_files_condition_keeper.cpp",
+  "file": "/home/anton/Documents/OOP/sound_processor/app/wav_parser/wav_files_condition_keeper.cpp",
+  "output": "app/wav_parser/CMakeFiles/wav_parser_lib.dir/wav_files_condition_keeper.cpp.o"
+},
+{
+  "directory": "/home/anton/Documents/OOP/sound_processor/build/app/exceptions",
+  "command": "/usr/bin/g++   -g -fno-elide-constructors -o CMakeFiles/exceptions_lib.dir/buisness_exception.cpp.o -c /home/anton/Documents/OOP/sound_processor/app/exceptions/buisness_exception.cpp",
+  "file": "/home/anton/Documents/OOP/sound_processor/app/exceptions/buisness_exception.cpp",
+  "output": "app/exceptions/CMakeFiles/exceptions_lib.dir/buisness_exception.cpp.o"
+},
+{
+  "directory": "/home/anton/Documents/OOP/sound_processor/build/app/config_parser",
+  "command": "/usr/bin/g++   -g -fno-elide-constructors -o CMakeFiles/config_parser_lib.dir/simple_config_parser.cpp.o -c /home/anton/Documents/OOP/sound_processor/app/config_parser/simple_config_parser.cpp",
+  "file": "/home/anton/Documents/OOP/sound_processor/app/config_parser/simple_config_parser.cpp",
+  "output": "app/config_parser/CMakeFiles/config_parser_lib.dir/simple_config_parser.cpp.o"
+},
+{
+  "directory": "/home/anton/Documents/OOP/sound_processor/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/g++  -I/home/anton/Documents/OOP/sound_processor/build/_deps/googletest-src/googlemock/include -I/home/anton/Documents/OOP/sound_processor/build/_deps/googletest-src/googlemock -isystem /home/anton/Documents/OOP/sound_processor/build/_deps/googletest-src/googletest/include -isystem /home/anton/Documents/OOP/sound_processor/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -fno-elide-constructors -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/anton/Documents/OOP/sound_processor/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/home/anton/Documents/OOP/sound_processor/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/home/anton/Documents/OOP/sound_processor/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/g++  -isystem /home/anton/Documents/OOP/sound_processor/build/_deps/googletest-src/googlemock/include -isystem /home/anton/Documents/OOP/sound_processor/build/_deps/googletest-src/googlemock -isystem /home/anton/Documents/OOP/sound_processor/build/_deps/googletest-src/googletest/include -isystem /home/anton/Documents/OOP/sound_processor/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -fno-elide-constructors -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/anton/Documents/OOP/sound_processor/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/home/anton/Documents/OOP/sound_processor/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/home/anton/Documents/OOP/sound_processor/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/g++  -I/home/anton/Documents/OOP/sound_processor/build/_deps/googletest-src/googletest/include -I/home/anton/Documents/OOP/sound_processor/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -fno-elide-constructors -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/anton/Documents/OOP/sound_processor/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/home/anton/Documents/OOP/sound_processor/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/home/anton/Documents/OOP/sound_processor/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/g++  -isystem /home/anton/Documents/OOP/sound_processor/build/_deps/googletest-src/googletest/include -isystem /home/anton/Documents/OOP/sound_processor/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -fno-elide-constructors -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/anton/Documents/OOP/sound_processor/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/home/anton/Documents/OOP/sound_processor/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+}
+]
